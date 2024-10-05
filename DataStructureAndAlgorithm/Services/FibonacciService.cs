@@ -7,7 +7,7 @@ public class FibonacciService
     /// </summary>
     /// <param name="i"></param>
     /// <returns></returns>
-    public int Fibonacci(int n)
+    public static int Fibonacci(int n)
     {
         if (n == 0)
         {
