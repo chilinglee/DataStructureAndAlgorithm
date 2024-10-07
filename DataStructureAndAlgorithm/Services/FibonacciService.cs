@@ -5,7 +5,7 @@ public class FibonacciService
     /// <summary>
     /// 費波那切數列
     /// </summary>
-    /// <param name="i"></param>
+    /// <param name="n">第 n 個數</param>
     /// <returns></returns>
     public static int Fibonacci(int n)
     {
